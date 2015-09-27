@@ -1,7 +1,15 @@
-
 <resources>
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="colorPrimary">@color/ColorPrimary</item>
-        <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
+
+    <!-- Base application theme. -->
+    <style name="Theme.LJMaterial" parent="Base.Theme.LJMaterial">
+
     </style>
+
+    <style name="Base.Theme.LJMaterial" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/lj_material_primaryColor</item>
+        <item name="colorPrimaryDark">@color/lj_material_primaryColorDark</item>
+        <item name="colorAccent">@color/lj_material_accentColor</item>
+    </style>
+
 </resources>

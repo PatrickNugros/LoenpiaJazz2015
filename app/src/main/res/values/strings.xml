@@ -3,14 +3,15 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="myplan">My Plan</string>
+    <string name="artist">Artist</string>
+    <string name="schedule">Schedule</string>
+    <string name="social">Social</string>
+    <string name="video">Video</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
 
-    <string name="jazzngisoringin">Komunitas musisi Semarang dari segala genre, status, dan level yang berkomunikasi dalam genre Jazz. Berpikir jazz pasti berpikir sesuatu yang rumit, maka dari itu kita buka wacana tersebut di komunitas ini. karena semua musik/lagu bisa dimainkan dalam jazz jadi jangan takut bergabung bagi yang tidak tahu jazz sama sekali.
-
-Wadah ini bertujuan untuk menyampaikan expresi, aspirasi, komunikasi bermusik, sebagai wadah untuk belajar bagi yang ingin lebih memperdalam sehingga memunculkan bibit2 musisi baru
-
-Ada pun nama JAZZ NGISORINGiN diambil dari lokasi stage di bawah pohon beringin di halaman OURS CAFÉ. JL. Karanganyar Gunung no.3 Tanah Putih (masuk Gerbang Candi Asri), live stage berlangsung 2 kali dalam 1 bulan. Pada hari Senin jam 9 – 11 malam live perdana dimulai pada hari Senin tanggal 13 Juli 2009, dan seterusnya Jazz Ngisoringin Regular diselenggarakan setiap 2 minggu dimulai dari event perdana.
-</string>
-    <string name="loenpiajazz">Loenpia Jazz sebagai nama kami usung atas dasar semangat keberagaman budaya yang berkembang di Kota Semarang. Budaya peranakan sebagai wujud nyata dari keberagaman itu, kami jadikan acuan untuk mempererat keberagaman budaya yang telah berkembang selama ratusan tahun di Kota Semarang.
-
-Loenpia yang telah lama dikenal sebagai makanan khas kota Semarang, kami angkat sebagai simbol keberagaman budaya di Kota Semarang. Hal ini kami rasa selaras dengan konsep keberagaman yang telah menjadi budaya didalam musik Jazz. Harapan kami, Loenpia Jazz dapat menjadi salah satu sarana untuk mempererat keberagaman budaya di Kota Semarang yang dikomunikasikan dalam musik Jazz. Unity in Diversity.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home_view_code_labs">HomeViewCodeLabsActivity</string>
 </resources>
